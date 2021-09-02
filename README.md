@@ -1,6 +1,8 @@
-# pod_player
+# Podcast Player
 
-Podcast Player Demo
+This app can play audio files from online URL. Users can save the audio files into local storage for offline play.
+
+Note: This is demo project for playing the audio files from internet.
 
 ## Getting Started
 
